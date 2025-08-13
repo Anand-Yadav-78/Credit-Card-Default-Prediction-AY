@@ -1,9 +1,5 @@
 # Credit-Card-Default-Prediction-AY
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-![App Screenshot](https://img.money.com/2022/10/News-2022-Credit-Card-Debt-Increase.jpg?crop=0px%2C49px%2C1728px%2C972px&quality=85)
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
